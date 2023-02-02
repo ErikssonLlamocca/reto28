@@ -1,7 +1,9 @@
 ##  Reto28
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.});
 
-## Development server
+![image](https://user-images.githubusercontent.com/101370561/216321624-bf5fdd6d-fe01-442a-a958-aeec436f5dc0.png)
+
+## Servidor de desarrollo
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
